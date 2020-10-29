@@ -1,0 +1,3 @@
+Python has many built in libraries which can be called upon to work with data. For example, importing libraries such as matplotlib enables you to plot your data. Another really important library to be imported is pandas which enables you to manipulate DataFrames as a Numpy package. 
+
+The most important imports for the purposes of this example are
