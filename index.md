@@ -1,4 +1,4 @@
-Hi! Welcome to my website, created for my Neural Data Science course (NESC3505). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.
+Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)](https://dalpsychneuro.github.io/NESC_3505/). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.
 
 ![jpeg](me.jpeg)![jpeg](me_t.jpeg)
 
@@ -16,7 +16,6 @@ Although the examples are not the most efficient use of Python, I gained an appr
 
 Here are two ways of graphing data, using [matplotlib and seaborn libraries](Portfolio_work.md)
 
-If you have any questions, please email me at:
-[an648648@dal.ca]
+If you have any questions, please [email me](mailto:an648648@dal.ca).
 
 
