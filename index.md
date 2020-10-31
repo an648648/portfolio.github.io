@@ -1,6 +1,6 @@
 # Welcome to Ani's Portfolio
 
-##A place to display my coding skills
+## A place to display my coding skills
 
 More about me and what you will find in this website [here](https://github.com/an648648/portfolio.github.io/blob/main/background.md)
 
