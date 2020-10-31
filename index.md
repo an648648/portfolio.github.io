@@ -1,6 +1,6 @@
 Hi! Welcome to my website, created for my Neural Data Science course (NESC3505). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.
 
-[[file:///Users/abrennan/Desktop/me.jpeg]]
+![jpeg](me.jpeg)![jpeg](me_t.jpeg)
 
 As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course.
 
