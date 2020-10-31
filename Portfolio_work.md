@@ -55,7 +55,7 @@ plt.show()
 
 
     
-![png](Portfolio%20work_files/Portfolio%20work_4_0.png)
+![png](a.png)
     
 
 
@@ -74,19 +74,7 @@ titanic
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -326,7 +314,7 @@ plt.show()
 
 
     
-![png](Portfolio%20work_files/Portfolio%20work_7_0.png)
+![png](titanic boxplot for port1.png)
     
 
 
