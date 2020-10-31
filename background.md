@@ -3,6 +3,6 @@ As a beginner to programming, Python originally seemed impossible. It would have
 This portfolio will showcase some useful beginner Python code.
 
 Included in this website, you will find code on:
-Basic Python and Terminology
-DataFrames: Manipulating, Merging and Managing
-Visualizations (graphs)
+Basic Python tools,
+Manipulating, Merging and Managing DataFrames
+Visualizations i.e. graphs
