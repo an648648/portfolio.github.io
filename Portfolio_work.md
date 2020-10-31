@@ -314,7 +314,7 @@ plt.show()
 
 
     
-![png](titanic boxplot for port1.png)
+![png](boxplot.png)
     
 
 
