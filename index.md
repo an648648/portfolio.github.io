@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Ani's Portfolio
 
-You can use the [editor on GitHub](https://github.com/an648648/portfolio1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A place to display my coding skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More about me and what you will find in this website [here](background.md)
 
-### Markdown
+Here is an example of [reading in a csv file](reading_in_a_file.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some basic examples of [creating functions](creating_functions.ipynb) 
+Although the examples are not the most efficient use of Python, I gained an appreciation for functions and realized that functions are an incredibly useful tool in a variety of situations! 
 
-```markdown
-Syntax highlighted code block
+Here are two ways of graphing data, using [matplotlib and seaborn libraries](data_visualization.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+If you have any questions, please email me at:
+[an648648@dal.ca]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/an648648/portfolio1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
