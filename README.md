@@ -10,5 +10,7 @@ Although the examples are not the most efficient use of Python, I gained an appr
 
 Here are two ways of graphing data, using [matplotlib and seaborn libraries](data_visualization.ipynb)
 
+Here is a Demo explaining the uses and applications of a [mask](https://an648648.github.io/demo-5/)
+
 If you have any questions, please email me at:
 [an648648@dal.ca]
