@@ -14,7 +14,7 @@ df['rt'] = df['rt'].apply(conversion)
 
 def transform (z):
     return 1/r
-df['invert' = df['rt'].apply(transform)
+df['invert'] = df['rt'].apply(transform)
 
 # Example from Assignment 3 (NESC3505)
 ```
