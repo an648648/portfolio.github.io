@@ -1,4 +1,4 @@
-## Indexing and Slicing Lists and Dataframes
+## Indexing and Slicing Lists and DataFrames
 
 ### Indexing and slicing lists
 
@@ -104,7 +104,7 @@ df
 
 
 
-<div>
+
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -212,7 +212,7 @@ df
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -252,7 +252,7 @@ two
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -393,7 +393,7 @@ df_changed
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -505,7 +505,7 @@ df
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
