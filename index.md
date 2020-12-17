@@ -9,8 +9,9 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 1. Basic Python applications
 * a) reading in a csv file so that it can be manipulable and analyzable
 * b) creating simple, muti-purpose functions so that data is easier to read and manipulate
-2. Data Visualizations using matplotlib and seaborns libraries 
-3. A Demo explaining the uses and applications of a mask
+2. Indexing and Slicing through Lists and DataFrames.
+3. Data Visualizations using matplotlib and seaborns libraries 
+4. A Demo explaining the uses and applications of a mask
 
 
 ## Here are the links to my coding examples!
@@ -18,6 +19,8 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 How to [read in a csv file](reading_in_csv.md).
 
 How to [create simple and useful functions](creating_functions.md) 
+
+How to [index and slice lists and DataFrames](indexing_slicing.md)
 
 How to [graph data using matplotlib and seaborn libraries](Portfolio_work.md).
 
