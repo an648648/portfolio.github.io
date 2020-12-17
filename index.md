@@ -23,7 +23,7 @@ How to [graph data using matplotlib and seaborn libraries](matplotlib_seaborn.md
 
 ### Single Unit Data: creating Raster plots
 
-How to [create a Raster plot](raster_plot.md). Raster plots are common in Neuroscience as they plot the frequency of action potentials over time. However, note this is **only for single unit (one neuron) data**
+How to [create a Raster plot](raster_plot.md). Raster plots are common in Neuroscience as they plot the frequency of action potentials over time. Note that this is **only for single unit (one neuron) data**
 
 ### 3D MRI slicing
 
