@@ -94,7 +94,7 @@ list[2::2]
 
 
 ```python
-#creating a random dataframe 
+#creating a random DataFrame 
 
 data = np.random.randint(5,30,size= (10, 5))
 df = pd.DataFrame(data, columns=['A', 'B', 'C', 'D', 'E'], index = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'])
@@ -216,7 +216,7 @@ df
 
 
 
-.loc[] is used to access specific rows or columns or elements in the dataframe.
+.loc[] is used to access specific rows or columns or elements in the DataFrame.
 
 
 ```python
@@ -262,7 +262,7 @@ two
 
 df.loc['three', 'C']
 
-Similar to lists, dataframe rows can be sliced to obtain elements from multiple rows and only one column.
+Similar to lists, DataFrame rows can be sliced to obtain elements from multiple rows and only one column.
 
 
 ```python
