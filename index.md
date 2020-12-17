@@ -1,6 +1,9 @@
 Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)](https://dalpsychneuro.github.io/NESC_3505/). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.
 
-<img src='me.jpg' width='200' align='right'>![jpeg](me_t.jpeg)
+<p align='center'>
+    <img src='chicken.jpg' width='200'>
+</p>
+![jpeg](me_t.jpeg)
 
 As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course.
 
