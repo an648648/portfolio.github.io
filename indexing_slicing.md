@@ -76,11 +76,11 @@ By passing a third argument through the list, I can print intervals. For example
 ```python
 #printing every second element in the list
 
-list[::2]
+print(list[::2])
 
 # printing every second element starting at c
 
-list[2::2]
+print(list[2::2])
 ```
 
 
