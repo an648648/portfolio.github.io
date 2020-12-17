@@ -212,7 +212,6 @@ df
   </tbody>
 </table>
 <p>436 rows × 12 columns</p>
-</div>
 
 
 
@@ -418,11 +417,8 @@ df
   </tbody>
 </table>
 <p>436 rows × 12 columns</p>
-</div>
 
 
-
-This is now much easier to work with than when nWBV was in decimals!
 
 I can also transform multiple columns using the same function. In the following example, I take the inverse of all data in columns nWBV and ASF using only one function. Once a function is defined, it can be applied to anything!
 
@@ -663,7 +659,6 @@ df
   </tbody>
 </table>
 <p>436 rows × 14 columns</p>
-</div>
 
 
 
@@ -742,6 +737,5 @@ df[['age group']]
   </tbody>
 </table>
 <p>436 rows × 1 columns</p>
-</div>
 
 
