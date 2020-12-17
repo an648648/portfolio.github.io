@@ -1,6 +1,6 @@
 ## Basic functions 
 
-A common function in neural data science is to convert values from seconds to milliseconds so that values are easier to read and manipulate. Basically, any mathematical functions can be used to change data! In this example, I willcreate a multiplication function and an inverse function.
+A common function in neural data science is to convert values from seconds to milliseconds so that the values are easier to read and manipulate. Basically, any mathematical functions can be used to change data! In this example, I will create a multiplication function and an inverse function.
 
 I will also show how to create an if-elif-else statement which is used to execute a statement or multiple statements. I split the age groups, from the dataframe defined below, into multiple subcategories. This could be a useful visualizing tool for large groups of people so that you know who is in what age group!
 
