@@ -14,6 +14,8 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 
 - Data Visualizations using matplotlib and seaborns libraries
 
+- Single Unit Data: creating Raster plots
+
 - A Demo explaining the uses and applications of a mask
 
 ## Here are the links to my coding examples!
@@ -25,6 +27,8 @@ How to [create simple and useful functions](creating_functions.md)
 How to [index and slice lists and DataFrames](indexing_slicing.md)
 
 How to [graph data using matplotlib and seaborn libraries](Portfolio_work.md).
+
+How to [create a Raster plot]
 
 In NESC3505, we are required to create Demos, to help others and learn from them.
 My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
