@@ -1,4 +1,4 @@
-->Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)](https://dalpsychneuro.github.io/NESC_3505/). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.<-
+Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)](https://dalpsychneuro.github.io/NESC_3505/). My name is Ani and I am in my third year of Neuroscience at Dalhousie University.
 
 ![jpeg](me.jpeg) ![jpeg](me_t.jpeg)
 
