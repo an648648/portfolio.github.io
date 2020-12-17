@@ -34,6 +34,7 @@ How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices
 
 In NESC3505, we are required to create Demos, to help others and learn from them.
 My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
+
 ---
 
 If you have any questions, please [email me](mailto:an648648@dal.ca)! 
