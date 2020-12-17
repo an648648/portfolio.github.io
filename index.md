@@ -29,4 +29,3 @@ My favourite Demo that I create was about [masking](https://an648648.github.io/d
 
 If you have any questions, please [email me](mailto:an648648@dal.ca).
 
-<p>&nbsp;</p>
