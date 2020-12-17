@@ -162,7 +162,7 @@ plt.vlines(spike_times, 0, 1);
 
 
     
-![png]c.png)
+![png](c.png)
     
 
 
