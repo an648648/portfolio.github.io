@@ -7,8 +7,8 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 ## My website has coding examples and explanations for the following topics:
 
 1. Basic Python applications
-⋅⋅* a) reading in a csv file so that it can be manipulable and analyzable
-⋅⋅* b) creating simple, muti-purpose functions so that data is easier to read and manipulate
+* a) reading in a csv file so that it can be manipulable and analyzable
+* b) creating simple, muti-purpose functions so that data is easier to read and manipulate
 2. Data Visualizations using matplotlib and seaborns libraries 
 3. A Demo explaining the uses and applications of a mask
 
