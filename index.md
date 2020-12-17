@@ -32,8 +32,8 @@ How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices
 ---
 ### Demo explaining the uses and applications of a mask
 
-In NESC3505, we are required to create Demos, to help others and learn from them.
-My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
+In NESC3505, we are required to create Demos, to teach our classmates something about coding and to learn from them.
+My favourite Demo that I created was about [masking](https://an648648.github.io/demo-5/).
 
 ---
 
