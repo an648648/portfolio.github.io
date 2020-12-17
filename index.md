@@ -9,8 +9,11 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 - Basic Python applications
   - reading in a csv file so that it can be manipulable and analyzable
   - creating simple, muti-purpose functions so that data is easier to read and manipulate
-- Indexing and Slicing through Lists and DataFrames.
-- Data Visualizations using matplotlib and seaborns libraries 
+  
+- Indexing and Slicing through Lists and DataFrames
+
+- Data Visualizations using matplotlib and seaborns libraries
+
 - A Demo explaining the uses and applications of a mask
 
 
@@ -26,8 +29,6 @@ How to [graph data using matplotlib and seaborn libraries](Portfolio_work.md).
 
 In NESC3505, we are required to create Demos, to help others and learn from them.
 My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
-
----
 
 **If you have any questions, please [email me](mailto:an648648@dal.ca).**
 
