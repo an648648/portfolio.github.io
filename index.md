@@ -5,7 +5,7 @@ Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)
 As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course. Happy coding!
 
 ---
-## My website has coding examples and explanations for the following topics:
+## I have created examples and explanations for the following topics:
 
 ### Basic Python applications
 
