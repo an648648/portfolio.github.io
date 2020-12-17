@@ -5,13 +5,11 @@ Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)
 As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course.
 
 ## My website has coding examples and explanations for the following topics:
-```python
-s = "1. Basic Python applications"
-print s
-```
-2. Manipulating, Merging and Managing DataFrames
-3. Data Visualizations using matplotlib and seaborns libraries
-4. 
+
+1. Basic Python applications
+2. Data Visualizations using matplotlib and seaborns libraries
+3. A Demo explaining the uses and applications of a mask
+
 
 ## Here are the links to my coding examples!
 
