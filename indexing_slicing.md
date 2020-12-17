@@ -199,7 +199,6 @@ df
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -239,7 +238,6 @@ two
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -376,7 +374,6 @@ df_changed
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -487,6 +484,5 @@ df
     </tr>
   </tbody>
 </table>
-</div>
 
 
