@@ -21,21 +21,6 @@ df
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -151,7 +136,6 @@ df
   </tbody>
 </table>
 <p>640000 rows × 6 columns</p>
-</div>
 
 
 
@@ -178,7 +162,7 @@ plt.vlines(spike_times, 0, 1);
 
 
     
-![png](raster_plot_files/raster_plot_8_0.png)
+![png]c.png)
     
 
 
