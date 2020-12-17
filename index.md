@@ -31,7 +31,6 @@ My favourite Demo that I create was about [masking](https://an648648.github.io/d
 
 ---
 
-<p align="center">
-  // If you have any questions, please [email me](mailto:an648648@dal.ca)
-</p>
+If you have any questions, please [email me](mailto:an648648@dal.ca)
+
 
