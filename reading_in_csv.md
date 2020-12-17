@@ -1,4 +1,4 @@
-### Reading in a csv file
+## Reading in a csv file
 
 Shared data is usually stored in a csv file so multiple people can access it by specifying its file path. I first had to upload the csv file to cocalc and then I will read it in using pd.read_csv() so that I can manipulate and access its data.
 
