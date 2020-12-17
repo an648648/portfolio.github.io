@@ -2,7 +2,7 @@ Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)
 
 ![jpeg](me.jpeg) ![jpeg](me_t.jpeg)
 
-As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course, with explanations. Happy coding!
+As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code, with explanations, that I found extremely useful for this course. Happy coding!
 
 ---
 ## My website has coding examples and explanations for the following topics:
