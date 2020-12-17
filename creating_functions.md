@@ -1,4 +1,4 @@
-### Basic functions 
+## Basic functions 
 
 A common function in neural data science is to convert values from seconds to milliseconds so that values are easier to read and manipulate. Basically, any mathematical functions can be used to change data! In this example, I willcreate a multiplication function and an inverse function.
 
