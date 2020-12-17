@@ -2,41 +2,39 @@ Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)
 
 ![jpeg](me.jpeg) ![jpeg](me_t.jpeg)
 
-As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course.
+As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course, with explanations. Happy coding!
 
 ## My website has coding examples and explanations for the following topics:
 
-- Basic Python applications
-  - reading in a csv file so that it can be manipulable and analyzable
-  - creating simple, muti-purpose functions so that data is easier to read and manipulate
+### Basic Python applications
+
+How to [read in a csv file](reading_in_csv.md). Necessary files and packages must first be loaded to have a dataset to analyze, manipulate or modify.
+
+How to [create simple and useful functions](creating_functions.md). Creating simple, muti-purposeful functions makes data manipulation much faster and more efficient. One function can be applied multiple times to different aspects of code.
   
-- Indexing and Slicing through Lists and DataFrames
+### Indexing and Slicing through Lists and DataFrames
 
-- Data Visualizations using matplotlib and seaborns libraries
+How to [index and slice lists and DataFrames](indexing_slicing.md). Accessing certain elements or a specific series of elements in a DataFrame is very helpful for visualizing pieces of information in a large DataFrame.
 
-- Single Unit Data: creating Raster plots
+### Data Visualizations using matplotlib and seaborns libraries
 
-- A Demo explaining the uses and applications of a mask
+How to [graph data using matplotlib and seaborn libraries](matplotlib_seaborn.md). Matplotlib and Seaborn libraries allow beautiful graphs to be created, which is helpful for visualizing certain pieces of data within a DataFrame or array.
 
-## Here are the links to my coding examples!
+### Single Unit Data: creating Raster plots
 
-How to [read in a csv file](reading_in_csv.md).
+How to [create a Raster plot](raster_plot.md). Raster plots are common in Neuroscience as they plot the frequency of action potentials over time. However, note this is **only for single unit (one neuron) data**
 
-How to [create simple and useful functions](creating_functions.md) 
+### 3D MRI slicing
 
-How to [index and slice lists and DataFrames](indexing_slicing.md)
+How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices from a DICOM file is a cool way to show a 3D MRI image.
 
-How to [graph data using matplotlib and seaborn libraries](matplotlib_seaborn.md).
-
-How to [create a Raster plot](raster_plot.md)
-
-How to [slice through a 3D MRI image](mri.md)
+#### Demo explaining the uses and applications of a mask
 
 In NESC3505, we are required to create Demos, to help others and learn from them.
 My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
 
 ---
 
-If you have any questions, please [email me](mailto:an648648@dal.ca)
+If you have any questions, please [email me](mailto:an648648@dal.ca)! 
 
 
