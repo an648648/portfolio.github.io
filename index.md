@@ -13,7 +13,7 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 
 ## Here are the links to my coding examples!
 
-Here is an example of [reading in a csv file](reading_files.md)
+Here is an example of [reading in a csv file](reading_in_csv.md)
 
 Here are some basic examples of [creating functions](creating_functions.md) 
 Although the examples are not the most efficient use of Python, I gained an appreciation for functions and realized that functions are an incredibly useful tool in a variety of situations! 
