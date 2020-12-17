@@ -6,9 +6,7 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 
 ## My website has coding examples and explanations for the following topics:
 
-<div class="text-blue">
 ### Basic Python applications
-</div>
 
 How to [read in a csv file](reading_in_csv.md). Necessary files and packages must first be loaded to have a dataset to analyze, manipulate or modify.
 
