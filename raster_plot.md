@@ -3,19 +3,19 @@
 Raster plots are an effective way to visualize action potential frequency from a single cell over time. The x-axis represents time and the y-axis is the action potential. Each spike will be exactly 1 on the y-axis because action potentials are discrete and countable and are either present or absent. The following code will show how to graph a raster project for a cell from the 'crowder_1_neuron' DataFrame. This data was obtained from Assignment 4 in NESC3505, Dalhousie University.
 
 
-```
+```python
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 ```
 
 
-```
+```python
 df = pd.read_csv('crowder_1_neuron.csv')
 ```
 
 
-```
+```python
 df
 ```
 
@@ -144,14 +144,14 @@ To create a Raster plot, I first must subset the data for only one trial, condit
 In Assignment 4, I chose the first trial, the highest contrast level(100) and the control condition. I also selected only the values where spike = 1 as the Raster plot displays the times at which an action potential is elicited.
 
 
-```
+```python
 df[(df['repetition'] == 1) & (df['contrast'] == 100) & (df['condition'] == 'CTRL') & (df['spike'] == 1)]
 ```
 
 To create the plot, the same code is required with the additional ['time'] column at the end of the code. I set it equal to spike_times so I could plot the Raster plot using plt.vlines()
 
 
-```
+```python
 spike_times = df[(df['repetition'] == 1) & (df['contrast'] == 100) & (df['condition'] == 'CTRL') & (df['spike'] == 1)]['time']
 
 fig = plt.figure()
