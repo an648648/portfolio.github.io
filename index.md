@@ -16,7 +16,6 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 
 - A Demo explaining the uses and applications of a mask
 
-
 ## Here are the links to my coding examples!
 
 How to [read in a csv file](reading_in_csv.md).
@@ -32,5 +31,5 @@ My favourite Demo that I create was about [masking](https://an648648.github.io/d
 
 ---
 
-<div align="center"> **If you have any questions, please [email me](mailto:an648648@dal.ca).**
+<div align="center"> **If you have any questions, please [email me](mailto:an648648@dal.ca).**</div>
 
