@@ -26,7 +26,7 @@ How to [create simple and useful functions](creating_functions.md)
 
 How to [index and slice lists and DataFrames](indexing_slicing.md)
 
-How to [graph data using matplotlib and seaborn libraries](Portfolio_work.md).
+How to [graph data using matplotlib and seaborn libraries](matplotlib_seaborn.md).
 
 How to [create a Raster plot]
 
