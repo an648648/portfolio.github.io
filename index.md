@@ -6,12 +6,12 @@ As a beginner to programming, Python originally seemed impossible. This portfoli
 
 ## My website has coding examples and explanations for the following topics:
 
-1. Basic Python applications
+- Basic Python applications
   - reading in a csv file so that it can be manipulable and analyzable
   - creating simple, muti-purpose functions so that data is easier to read and manipulate
-2. Indexing and Slicing through Lists and DataFrames.
-3. Data Visualizations using matplotlib and seaborns libraries 
-4. A Demo explaining the uses and applications of a mask
+- Indexing and Slicing through Lists and DataFrames.
+- Data Visualizations using matplotlib and seaborns libraries 
+- A Demo explaining the uses and applications of a mask
 
 
 ## Here are the links to my coding examples!
