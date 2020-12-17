@@ -3,7 +3,6 @@ Hi! Welcome to my website, created for my [Neural Data Science course (NESC3505)
 ![jpeg](me.jpeg) ![jpeg](me_t.jpeg)
 
 As a beginner to programming, Python originally seemed impossible. This portfolio will showcase some beginner Python code that I found extremely useful for this course.
----
 
 ## My website has coding examples and explanations for the following topics:
 
@@ -27,7 +26,7 @@ How to [graph data using matplotlib and seaborn libraries](Portfolio_work.md).
 
 In NESC3505, we are required to create Demos, to help others and learn from them.
 My favourite Demo that I create was about [masking](https://an648648.github.io/demo-5/).
----
 
+--
 **If you have any questions, please [email me](mailto:an648648@dal.ca).**
 
