@@ -62,7 +62,7 @@ plt.show()
 
 
 
-The following code is using the Python library 'Seaborn'. Seaborn has more themes and patterns to choose from than Matplotlib and uses simpler syntax to visualize the data. It is also easier to visualize dataframes in Seaborn as you can overlap various columns within the same graph. 
+The following code is using the Python library 'Seaborn'. Seaborn has more themes and patterns to choose from than Matplotlib and uses simpler syntax to visualize the data. It is also easier to visualize dataframes in Seaborn as you can overlap columns within the same graph. 
 
 
 ```python
