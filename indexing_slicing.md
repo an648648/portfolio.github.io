@@ -241,7 +241,7 @@ two
 
 
 
-.loc can also be used to select a single element from a certain row and column
+.loc can also be used to select a single element from a certain row and column.
 
 
 ```python
