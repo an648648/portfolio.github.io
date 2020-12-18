@@ -382,7 +382,7 @@ Similarly, I can alter values within a column so that they all meet a certain co
 
 
 ```python
-#changing column A so all values are lower than 18 are equal to 18
+#modifying column A so that all values lower than 18 become equal to 18
 
 df.loc[df['A'] < 18] = 18
 df
