@@ -84,3 +84,5 @@ plt.show()
     
 ECDF (observed) data are the orange dots in the graph, while the CDF (theoretical) normal curve is in blue. Observed values are close to normal, however, further statistical analysis is required to confirm significance.
 
+This information was learned from DataCamp lesson: Statistical Thinking in Python (Part 1)
+
