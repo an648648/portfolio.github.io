@@ -48,7 +48,7 @@ mean = np.mean(array)
 standard_dev = np.std(array)
 ```
 
-A sample of the normal distribution is taken for comparison with the ECDF plot
+A sample of a normal distribution is defined to plot against ECDF data.
 
 
 ```python
