@@ -13,21 +13,25 @@ How to [read in a csv file](reading_in_csv.md). Necessary files and packages mus
 
 How to [create simple and useful functions](creating_functions.md). Creating simple, muti-purposeful functions makes data manipulation much faster and more efficient. One function can be applied multiple times to different aspects of code.
   
-### Indexing and Slicing through Lists and DataFrames
+### Indexing and slicing through lists and dataFrames
 
 How to [index and slice lists and DataFrames](indexing_slicing.md). Accessing certain elements or a specific series of elements in a DataFrame is very helpful for visualizing pieces of information in a large DataFrame.
 
-### Data Visualizations using matplotlib and seaborns libraries
+### Data visualizations using matplotlib and seaborns libraries
 
 How to [graph data using matplotlib and seaborn libraries](matplotlib_seaborn.md). Matplotlib and Seaborn libraries allow beautiful graphs to be created, which is helpful for visualizing certain pieces of data within a DataFrame or array.
 
-### Single Unit Data: creating Raster plots
+### Single unit data: creating Raster plots
 
 How to [create a Raster plot](raster_plot.md). Raster plots are common in Neuroscience as they plot the frequency of action potentials over time. Note that this is **only for single unit (one neuron) data**
 
 ### 3D MRI slicing
 
 How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices from a DICOM file is a cool way to show a 3D MRI image.
+
+### Plotting cumulative distribution porbabilities
+
+How to [plot CDFs](statistics.md). A CDF plot can be used to visualize the difference between an empirical (observed) cumulative function probability and a theoretical normal cumulative function probability. 
 
 ---
 ### Demo explaining the uses and applications of a mask
