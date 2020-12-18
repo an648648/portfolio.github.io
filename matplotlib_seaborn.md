@@ -306,7 +306,7 @@ titanic
 
 
 ```python
-sns.catplot(kind = 'box', data = titanic, y='age', x= 'sex', hue = 'alive')
+sns.catplot(kind = 'box', data = titanic, y = 'age', x = 'sex', hue = 'alive')
 plt.title('Age of men/women who survived/died onboard the Titanic')
 
 plt.show()
