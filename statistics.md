@@ -55,7 +55,7 @@ A sample of a normal distribution is defined to plot against ECDF data.
 normal = np.random.normal(mean, standard_dev, 1000)
 ```
 
-A Cumulative Distribution Function (CDF) is the cumulative expected probability of obtaining a certain value. This is why we call x_theor and y_theor for theoretical x and theoretical y.
+A Cumulative Distribution Function (CDF) is the cumulative expected probability of obtaining a certain value. A CDF plots theoretical data. This is why we call x_theor and y_theor for theoretical x and theoretical y. 
 
 The regular x and y are defined by the random array of interest.
 
