@@ -27,7 +27,7 @@ How to [create a Raster plot](raster_plot.md). Raster plots are common in Neuros
 
 ### 3D MRI slicing
 
-How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices from a DICOM file is a cool way to show a 3D MRI image.
+How to [slice through a 3D MRI image](mri.md). Creating subplots of brain slices from a DICOM file is a cool way to show multiple 3D MRI images.
 
 ### Plotting cumulative distribution porbabilities
 
