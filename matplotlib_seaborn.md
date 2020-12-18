@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-The following code is using the Python library 'matplotlib'. Matplotlib uses other Python libraries i.e. numpy and pandas, to visualize datasets.
+The following code is using the Python library 'matplotlib'. Matplotlib uses other Python libraries, i.e. numpy and pandas, to visualize datasets.
 
 
 ```python
