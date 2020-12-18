@@ -80,7 +80,7 @@ plt.show()
 
 
     
-![png](statistics_files/statistics_14_0.png)
+![png](f.png)
     
 
 
